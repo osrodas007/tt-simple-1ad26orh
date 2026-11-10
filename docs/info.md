@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+The project in Phase 1 will be only for working as a 7-segment decoder. In Phase 2, it will have various functions that were programmed in Verilog.
 ## How to test
 
-Explain how to use your project
+It should be run connected to any programmable microcontroller that will send the inputs and configurations.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+It will need a programmable microcontroller or dev board, a 7 segment, leds, 8 dip switch, etc.
